@@ -1,16 +1,61 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=DAA520"/>
 
-<!--
-**JoaoFazio/JoaoFazio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
+<div align="center">
+  
+  <samp>
+      <br>
+      Hi there! I'm <b>João Gabriel</b>
+  </samp>
+</div>
 
-Here are some ideas to get you started:
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&color=f4cd7c&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Computer+Science+at+Unioeste;I'm+also+a+Frontend+Enthusiast;Be+welcome!" alt="Typing SVG"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+<br>
+      
+<div align="center">
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=JoaoFazio&show_icons=true&count_private=true&rank_icon=github&theme=ayu-mirage&font=Iosevka"/>
+  <img height=180 align="center" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFazio&layout=compact&theme=ayu-mirage"/>
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoFazio&theme=ayu_mirage"/>
+</div>
+
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  
+</div>
+
+<br>
+<br>
+<br>
+
+<br>
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br><br>
+  <a href="mailto:joao.gabriel.fazio@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-fazio-861186338/">
+    <img src="https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"/>
+  </a>
+</div>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=DAA520&section=footer"/>
