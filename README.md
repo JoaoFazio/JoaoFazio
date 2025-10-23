@@ -25,7 +25,7 @@
     gap: 10px;
     flex-wrap: wrap;
   ">
-    <img src="https://github-readme-stats.vercel.app/api/?username=JoaoFazio&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=ayu-mirage&font=Iosevka"
+    <img src="https://github-readme-stats.vercel.app/api/?username=JoaoFazio&show_icons=true&count_private=false&include_all_commits=true&rank_icon=github&theme=ayu-mirage&font=Iosevka"
          alt="GitHub Stats"
          style="height: 180px; max-width: 100%; width: auto;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFazio&layout=compact&theme=ayu-mirage"
