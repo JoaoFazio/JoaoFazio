@@ -16,12 +16,28 @@
 <br>
 <br>
 <br>
-      
+
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=JoaoFazio&show_icons=true&count_private=true&rank_icon=github&theme=ayu-mirage&font=Iosevka"/>
-  <img height=180 align="center" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFazio&layout=compact&theme=ayu-mirage"/>
-  <br>
-  <br>
+  <div style="
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+  ">
+    <img src="https://github-readme-stats.vercel.app/api/?username=JoaoFazio&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=ayu-mirage&font=Iosevka"
+         alt="GitHub Stats"
+         style="height: 180px; max-width: 100%; width: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFazio&layout=compact&theme=ayu-mirage"
+         alt="Top languages"
+         style="height: 180px; max-width: 100%; width: auto;" />
+  </div>
+</div>
+
+<br>
+<br>
+
+<div align="center">
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoFazio&theme=ayu_mirage"/>
 </div>
 
@@ -33,14 +49,12 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  
 </div>
 
 <br>
 <br>
 <br>
 
-<br>
 <div align="center">
   <samp>
     <b>
