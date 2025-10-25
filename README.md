@@ -28,9 +28,9 @@
     <img src="https://github-readme-stats.vercel.app/api/?username=JoaoFazio&show_icons=true&count_private=false&include_all_commits=true&rank_icon=github&theme=ayu-mirage&font=Iosevka"
          alt="GitHub Stats"
          style="height: 180px; max-width: 100%; width: auto;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFazio&layout=compact&theme=ayu-mirage"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFazio&layout=compact&theme=ayu-mirage&hide=go,shell,perl,c,c%2B%2B"
          alt="Top languages"
-         style="height: 180px; max-width: 100%; width: auto;" />
+         style="height: 180px; max-width: 100%;" />
   </div>
 </div>
 
