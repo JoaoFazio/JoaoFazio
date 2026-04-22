@@ -1,6 +1,6 @@
 # João Gabriel Fazio
 
-Computer Science student at Unioeste · Developer @ LabMulti · Cascavel, BR
+Computer Science student at Unioeste · Developer @ LabMulti 
 
 ---
 
