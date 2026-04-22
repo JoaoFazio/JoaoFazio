@@ -1,68 +1,41 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=DAA520"/>
+# João Gabriel Fazio
 
-</div>
-<div align="center">
-  
-  <samp>
-      <br>
-      Hi there! I'm <b>João Gabriel</b>
-  </samp>
-</div>
+Computer Science student at Unioeste · Developer @ LabMulti · Cascavel, BR
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&color=f4cd7c&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Computer+Science+at+Unioeste;I'm+also+a+Frontend+Enthusiast;Be+welcome!" alt="Typing SVG"/>
-</div>
+---
 
-<br>
-<br>
-<br>
+## About
 
-<div align="center">
-  <div style="
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 10px;
-    flex-wrap: wrap;
-  ">
-    <img src="https://github-readme-stats.vercel.app/api/?username=JoaoFazio&show_icons=true&count_private=false&include_all_commits=true&rank_icon=github&theme=ayu-mirage&font=Iosevka"
-         alt="GitHub Stats"
-         style="height: 180px; max-width: 100%; width: auto;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFazio&layout=compact&theme=ayu-mirage&hide=go,shell,perl,c,c%2B%2B"
-         alt="Top languages"
-         style="height: 180px; max-width: 100%;" />
-  </div>
-</div>
+I'm a 5th-year CS student working as a Developer on LabMulti — a corporate laboratory management system for Unioeste, with integrations to Stark Bank for dynamic Pix, boletos, and payment splits.
 
-<div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-</div>
+Currently learning React.
 
-<br>
-<br>
-<br>
+---
 
-<div align="center">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
-  <br><br>
-  <a href="mailto:joao.gabriel.fazio@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-fazio-861186338/">
-    <img src="https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"/>
-  </a>
-</div>
+## Stack
 
-<br><br>
+**@ LabMulti**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=DAA520&section=footer"/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Learning**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+---
+
+
+## Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:joao.gabriel.fazio@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-fazio-861186338/)
