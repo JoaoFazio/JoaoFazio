@@ -41,7 +41,7 @@ Looking for a paid development internship in 2027.
 | Project | Description | Stack | Demo |
 |---|---|---|---|
 | 🎌 **AniTrack** | Anime discovery and tracking app with search, filters, and personal watchlist | React · Vite · Tailwind CSS | [Live](https://anitrack-mu.vercel.app) |
-| 💰 **Fintrack** | Personal finance tracker with real-time balance and category filtering | React · Vite · CSS | [Live](fintrack-v2-neon.vercel.app) |
+| 💰 **Fintrack** | Personal finance tracker: dashboard with balance cards and charts (spending by category, income vs expenses by month), plus a transaction history filterable by month, category and type. State with Context + `useReducer`, persisted in `localStorage` | React · TypeScript · Vite · Tailwind CSS · React Router · Recharts | [Live](https://fintrack-v2-neon.vercel.app) |
 | 🏆 **Códice Hextech** | LoL champion guide consuming Riot's API · TOP 6 Alura + Google | JS · Chart.js · CSS | [Live](https://joaofazio.github.io/codice_hextec/) |
 
 ---
