@@ -5,13 +5,13 @@ Full-Stack Developer · Computer Science student at Unioeste, Brazil
 
 ## About
 
-I'm a CS student focused on front-end development with JavaScript and React, currently in my 5th year at Universidade Estadual do Oeste do Paraná.
+I'm a Computer Science student in my 5th year at Universidade Estadual do Oeste do Paraná, working across the stack: Java/Spring Boot and Angular at LabMulti, and React on my own projects.
 
-I'm also working as a Junior Developer on **LabMulti** — a corporate laboratory management system built for Unioeste — where I contribute to a production codebase and gain hands-on exposure to Java/Spring Boot, Angular, and Stark Bank payment integrations.
+I'm also a scholarship developer (bolsista) on **LabMulti** — a corporate laboratory management system built for Unioeste — where I contribute to a production codebase with Java/Spring Boot, Angular and PostgreSQL, including Stark Bank payment integrations.
 
 Outside of work, I build personal projects to sharpen my React skills and document my learning process publicly.
 
-Looking for a paid development internship in 2027.
+Based in Cascavel, PR, Brazil. Looking for a paid development internship in 2027.
 
 ---
 
@@ -27,7 +27,7 @@ Looking for a paid development internship in 2027.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Exposure through work (LabMulti)**
+**At work (LabMulti)**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -48,5 +48,5 @@ Looking for a paid development internship in 2027.
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-gabriel-fazio-861186338/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-fazio-861186338/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:joao.gabriel.fazio@gmail.com)
