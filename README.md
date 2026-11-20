@@ -7,7 +7,7 @@ Full-Stack Developer · Computer Science student at Unioeste, Brazil
 
 I'm a Computer Science student in my 5th year at Universidade Estadual do Oeste do Paraná, working across the stack: Java/Spring Boot and Angular at LabMulti, and React on my own projects.
 
-I'm also a scholarship developer (bolsista) on **LabMulti** — a corporate laboratory management system built for Unioeste — where I contribute to a production codebase with Java/Spring Boot, Angular and PostgreSQL, including Stark Bank payment integrations.
+I'm also a scholarship developer (bolsista) on **LabMulti** — a corporate laboratory management system built for Unioeste — where I contribute to a production codebase with Java/Spring Boot, Angular and PostgreSQL.
 
 Outside of work, I build personal projects to sharpen my React skills and document my learning process publicly.
 
