@@ -1,5 +1,5 @@
 # João Gabriel Fazio
-Front-End Developer · Computer Science student at Unioeste, Brazil
+FullStack Developer · Computer Science student at Unioeste, Brazil
 
 ---
 
