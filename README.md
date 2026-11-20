@@ -11,7 +11,7 @@ I'm also working as a Junior Developer on **LabMulti** — a corporate laborator
 
 Outside of work, I build personal projects to sharpen my React skills and document my learning process publicly.
 
-🌍 Looking for an international internship in front-end or full-stack development in 2027.
+Looking for a paid development internship in 2027.
 
 ---
 
